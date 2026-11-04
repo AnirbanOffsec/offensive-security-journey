@@ -3,6 +3,10 @@
 
 <br/>
 
+Welcome to my personal cybersecurity research vault. This repository is dedicated to documenting my hands-on learning path, practical methodologies, lab write-ups, and security research as I build my core skills in offensive security.
+
+---
+
 ## 🧭 Learning Progress
 
 - [ ] 🌐 **[Web-Pentesting](./web-pentesting/README.md)**
